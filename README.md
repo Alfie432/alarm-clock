@@ -1,1 +1,3 @@
-# alarm-clock
+# Alarm Clock
+
+Only for MacOS
